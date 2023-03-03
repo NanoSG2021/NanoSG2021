@@ -1,4 +1,8 @@
 ### Hi there 👋
+I’m currently studying ITI at the UTN.
+I like web development and everything related to technology.
+I like video games.
+Finally, I really don't know what else to put here.
 
 <!--
 **NanoSG2021/NanoSG2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
